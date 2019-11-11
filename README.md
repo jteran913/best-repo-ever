@@ -2,4 +2,5 @@
 
 Adding some contect to ReadMe file
 
-From branch 2, creating conflicts!
+Generating some merge conflicts. From branch 2, creating conflicts!
+
